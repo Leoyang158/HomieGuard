@@ -1,6 +1,10 @@
 # HomieGuard - TAMUmake 2021 
-#Team 
+#Devpost Link: https://devpost.com/software/homieguard
+# Please check it out and more informations about this event including videos
+ 
+#Team Guard
 Team Members: Linjian Yang, Saini Ye, Jiaze Cai
+
 ## Inspiration
 Our ideas about the project were initially inspired by our friends’ daily life experience. During COVID time, most of the students were asked to stay at home and take online courses. For students who were mostly taking their major specific courses, the course load and the school work make some of them having difficulty in managing their time between living and studying. There is a scenario when you are really busy about your school work, while your roommate does not recognize that and still come in to your room often and bother you, are you feeling stress and worries? Yes, the homieGuard is meant to be a “watchdog’ that will guard your room at your dorm so check if there is someone right outside of your room. Additionally, it does not have to be roommates, it could also be set up outside of dorms to check the people who walked pass by and make sure they don’t take your deliveries. 
 
